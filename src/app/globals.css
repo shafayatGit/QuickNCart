@@ -1,26 +1,20 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+.bg_1{
+    background-image: url('https://i.ibb.co.com/sJcKNcVK/bg-quick-NCart.jpg');
+     background-size: cover;
+  background-position: center;
+  width: 100%;
   }
-}
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
-}
+  button{
+    background: black;
+    color: antiquewhite;
+    cursor: pointer;
+  }
+  button:hover{
+    background:rgb(226, 232, 226);
+    border-radius: 20px;
+    color: black;
+    box-shadow: 10px;
+  }

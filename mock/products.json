@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise cancellation and 20 hours battery life.",
+    "price": 120,
+    "image": "https://i.ibb.co.com/hJrJYydf/headphone.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Smartwatch Pro X",
+    "description": "Feature-packed smartwatch with fitness tracking, heart rate monitor, and customizable watch faces.",
+    "price": 199,
+    "image": "https://i.ibb.co.com/vxfT041Y/watch.jpg",
+    "category": "Wearables"
+  },
+  {
+    "name": "Bluetooth Speaker Mini",
+    "description": "Compact Bluetooth speaker with deep bass, waterproof design, and 10 hours playtime.",
+    "price": 75,
+    "image": "https://i.ibb.co.com/VY88LFN6/airbuds.jpg",
+    "category": "Audio"
+  },
+  {
+    "name": "4K Ultra HD Monitor",
+    "description": "27-inch 4K Ultra HD monitor with HDR support and ultra-slim bezels for immersive viewing.",
+    "price": 320,
+    "image": "https://i.ibb.co.com/QvggwbNL/monitor.jpg",
+    "category": "Computers"
+  },
+  {
+    "name": "Mechanical Gaming Keyboard",
+    "description": "RGB backlit mechanical keyboard with customizable keys and ergonomic wrist rest.",
+    "price": 110,
+    "image": "https://i.ibb.co.com/qY6WC8TK/keyboard.jpg",
+    "category": "Accessories"
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "description": "Fast wireless charging pad compatible with iPhone, Samsung, and other Qi-enabled devices.",
+    "price": 45,
+    "image": "https://i.ibb.co.com/jPY4dHQS/charger.jpg",
+    "category": "Mobile Accessories"
+  },
+  {
+    "name": "Noise Cancelling Earbuds",
+    "description": "True wireless earbuds with noise cancellation, touch controls, and 24-hour battery life.",
+    "price": 150,
+    "image": "https://i.ibb.co.com/PpWgGyj/airbud.jpg",
+    "category": "Audio"
+  },
+  {
+    "name": "Gaming Mouse Pro",
+    "description": "High-precision gaming mouse with customizable DPI settings and RGB lighting.",
+    "price": 65,
+    "image": "https://i.ibb.co.com/Pv54fcVK/mouse.jpg",
+    "category": "Accessories"
+  },
+  {
+    "name": "Portable SSD 1TB",
+    "description": "Ultra-fast portable SSD with 1TB storage and USB-C connectivity for quick file transfers.",
+    "price": 180,
+    "image": "https://i.ibb.co.com/5hL6b24d/ssd.jpg",
+    "category": "Storage"
+  },
+  {
+    "name": "Drone Pro 4K",
+    "description": "Compact drone with 4K camera, GPS, and 30 minutes of flight time per charge.",
+    "price": 499,
+    "image": "https://i.ibb.co.com/fYmS968b/drone.jpg",
+    "category": "Gadgets"
+  }
+]
